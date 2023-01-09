@@ -4,7 +4,7 @@
 
 ### Traits: 
 
-- ⌨ X-Bows Knight
+- ⌨ `X-Bows Knight` user
 
 <!--
 **gam6itko/gam6itko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

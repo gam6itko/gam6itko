@@ -4,6 +4,11 @@
 
 ### Traits: 
 
+- 🐘 Seniour PHP developer.
+- 💻 Middle devOps.
+- 🐹 Junior golang developer.
+- 🤞 I believe Roadrunner and SpiralFramework will change the world of PHP.
+- 🔭 Мodest OpenSource contributor.
 - ⌨ `X-Bows Knight` user
 
 <!--
